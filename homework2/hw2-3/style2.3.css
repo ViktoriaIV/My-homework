@@ -1,0 +1,22 @@
+body{background-color: #3f633f;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 28px;
+    margin-top: 35px;
+    .item{
+        width: 200px;
+        height: 215px;
+        border-radius: 2%;
+        background-color: #dcf6dc;
+        padding: 10px;
+        transition: 1s;
+    }
+    .item:hover{transition: 2s;
+        transform: scale(1.1);}
+    .text{font-size: 15px}
+
+}

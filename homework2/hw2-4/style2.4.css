@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+list-style-type: none;
+}
+.user-info{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.message{
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text{
+    font-family:"Rubik Pixels", system-ui;
+    font-style: normal;
+}
+.wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+p { width: 220px;
+    height: 270px;
+    background-color: pink;
+    /*padding: 40px;*/
+    display: inline-block;
+    text-align: center;
+    padding-top: 125px;
+    margin-top: 8px}
+
+.card{
+    font-family: "Sedgwick Ave Display", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.content{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-style:normal;
+}
