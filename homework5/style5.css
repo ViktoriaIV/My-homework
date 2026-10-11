@@ -57,6 +57,7 @@ h1{width: 1255px;
     text-transform: uppercase;
     margin: 74px 0 33px 0;}
 .about{
+    margin-top: 32px;
     padding:28px;
     display: flex;
     align-items: center;
@@ -109,7 +110,8 @@ h1{width: 1255px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 64px 0;}
+    /*padding: 64px 0;}*/
+    margin: 64px 0;}
 .h2-finaly{width: 895px;
     color: #E9E3DC;
     text-align: center;
